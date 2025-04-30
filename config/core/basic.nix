@@ -21,6 +21,10 @@
     smartcase = true;
     hlsearch = false;
 
+    # Using lualine, no need to show mode
     showmode = false;
+
+    # Clipboard
+    clipboard = "unnamedplus";
   };
 }
